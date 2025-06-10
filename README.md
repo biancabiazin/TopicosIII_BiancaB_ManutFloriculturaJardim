@@ -11,3 +11,5 @@ Entrega atualiação versão 0.1.15 - 01/06/2025 - Branch "atualiação_dia_01/0
 Entrega atualização versão 1.0.0 - 02/06/2025 - Branch "atualização_dia_02/06/2025"
 
 Entrega atualização versão 1.0.3 - 08/06/2025 - Branch "atualização_dia_08/06/2025"
+
+Entrega atualização versão 1.1.2 - 09/06/2025 - Branch "atualização_dia_09/06/2025"
