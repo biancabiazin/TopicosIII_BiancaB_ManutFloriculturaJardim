@@ -17,3 +17,5 @@ Entrega atualização versão 1.1.2 - 09/06/2025 - Branch "atualização_dia_09/
 Entrega atualização versão 1.3.4 - 15/06/2025 - Branch "atualização_dia_15/06/2025"
 
 Entrega atualização versão 1.4.0 - 16/06/2025 - Branch "atualização_dia_16/06/2025"
+
+Entrega atualização versão 2.0.0 - FloriculturaJardim.rar - 19/06/2025 - Branch "atualização_dia_19/06/2025"
